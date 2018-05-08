@@ -32,10 +32,10 @@
 .hover-bg-br-purple:hover,
 .hover-bg-br-purple:focus { background-color: #90469b; }
 
-.br-purple { color: #F8992A; }
-.bg-br-purple { background-color: #F8992A; }
-.b--br-purple { border-color: #F8992A; }
-.hover-br-purple:hover,
-.hover-br-purple:focus { color: #F8992A; }
-.hover-bg-br-purple:hover,
-.hover-bg-br-purple:focus { background-color: #F8992A; }
+.br-orange { color: #F8992A; }
+.bg-br-orange { background-color: #F8992A; }
+.b--br-orange { border-color: #F8992A; }
+.hover-br-orange:hover,
+.hover-br-orange:focus { color: #F8992A; }
+.hover-bg-br-orange:hover,
+.hover-bg-br-orange:focus { background-color: #F8992A; }
