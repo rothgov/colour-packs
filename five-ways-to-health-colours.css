@@ -1,0 +1,41 @@
+/* colours for Five Ways */
+
+.br-pink { color: #ec008c; }
+.bg-br-pink { background-color: #ec008c; }
+.b--br-pink { border-color: #ec008c; }
+.hover-br-pink:hover,
+.hover-br-pink:focus { color: #ec008c; }
+.hover-bg-br-pink:hover,
+.hover-bg-br-pink:focus { background-color: #ec008c; }
+
+.br-green { color: #68bc45; }
+.bg-br-green { background-color: #68bc45; }
+.b--br-green { border-color: #68bc45; }
+.hover-br-green:hover,
+.hover-br-green:focus { color: #68bc45; }
+.hover-bg-br-green:hover,
+.hover-bg-br-green:focus { background-color: #68bc45; }
+
+.br-blue { color: #00aeef; }
+.bg-br-blue { background-color: #00aeef; }
+.b--br-blue { border-color: #00aeef; }
+.hover-br-blue:hover,
+.hover-br-blue:focus { color: #00aeef; }
+.hover-bg-br-blue:hover,
+.hover-bg-br-blue:focus { background-color: #00aeef; }
+
+.br-purple { color: #90469b; }
+.bg-br-purple { background-color: #90469b; }
+.b--br-purple { border-color: #90469b; }
+.hover-br-purple:hover,
+.hover-br-purple:focus { color: #90469b; }
+.hover-bg-br-purple:hover,
+.hover-bg-br-purple:focus { background-color: #90469b; }
+
+.br-purple { color: #F8992A; }
+.bg-br-purple { background-color: #F8992A; }
+.b--br-purple { border-color: #F8992A; }
+.hover-br-purple:hover,
+.hover-br-purple:focus { color: #F8992A; }
+.hover-bg-br-purple:hover,
+.hover-bg-br-purple:focus { background-color: #F8992A; }
